@@ -1,2 +1,4 @@
 devil.f
 new line
+sec
+third
